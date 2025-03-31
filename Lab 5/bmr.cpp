@@ -16,7 +16,7 @@ int main() {
 	cout << "Hello, are you a dude or a dudette (m/f)? ";
 	char gender;
 	cin >> gender;
-	cout << "\nCool, now please, input, in order, your weight(in pounds)," <<
+	cout << "\nCool, now please, input, in order, your weight (in pounds)," <<
 		"your height (in inches), and your age (in years): ";
 	cin >> lbs >> inches >> years;
 
