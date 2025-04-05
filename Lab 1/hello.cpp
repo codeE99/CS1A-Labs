@@ -1,6 +1,5 @@
 //A typical "Hello World" program
 //CS1 Lab 1
-//Cody Sherman
 
 #include <iostream>
 #include <string>
